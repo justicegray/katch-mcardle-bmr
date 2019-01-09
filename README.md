@@ -17,7 +17,7 @@ yarn add katch-mcardle-bmr
 ## Usage
 Import:
 ```
-import calculateKatchMcardleBmr from 'calculate-katch-mcardle-bmr';
+import calculateKatchMcardleBmr from 'katch-mcardle-bmr';
 ```
 
 The function signature itself is as follows:
